@@ -2,5 +2,5 @@ Iniciante em programação, disposto a aceitar novos desafios. Atualmente cursan
 <div>
 <a href="https://github.com/EduAzevedo">
 <img height=180em src="https://github-readme-stats.vercel.app/api?username=EduAzevedo&show_icons=true&theme=radical"/>
-<img height=90em src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduAzevedo&layout=compact"/>
+<img height=120em src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduAzevedo&layout=compact"/>
  </div>
