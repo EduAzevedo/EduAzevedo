@@ -2,7 +2,7 @@
 ### My name is Eduardo!
 
 - 🌱 I’m currently learning mobile development with Flutter and Java.
-- 🔭 I’m currently working on small personal projects.
+- 🔭 I’m currently working on personal projects.
 
 <div>
 <a href="https://github.com/EduAzevedo">
