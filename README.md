@@ -1,9 +1,6 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Eduardo!
 
-- 🌱 I’m currently learning mobile development with Flutter and Java.
-- 🔭 I’m currently working on personal projects.
-
 <div>
 <a href="https://github.com/EduAzevedo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduAzevedo&layout=compact&langs_count=7&theme=dracula"/>
