@@ -1,5 +1,4 @@
 ## 👋 Hello! Welcome to my Github profile.
-### My name is Eduardo!
 
 <div>
 <a href="https://github.com/EduAzevedo">
