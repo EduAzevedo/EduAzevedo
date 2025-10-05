@@ -1,11 +1,5 @@
 ## 👋 Hello! Welcome to my Github profile.
 
-<div>
-<a href="https://github.com/EduAzevedo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduAzevedo&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduAzevedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 ### Contacts:
 
 <div>
@@ -16,6 +10,3 @@
 ### Tecnologies and tools:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="30" height="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30" height="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="30" height="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30" height="30" /><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" width=30 height=30/>
-
-  
-  ![Snake animation](https://github.com/EduAzevedo/EduAzevedo/blob/output/github-contribution-grid-snake.svg)
